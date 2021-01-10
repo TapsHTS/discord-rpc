@@ -25,4 +25,6 @@ node rpc.js
 
 ## Merci si vous laissez une ⭐!
 
+Merci à [Janastinou](https://github.com/Janastinou) ❤
+
 
