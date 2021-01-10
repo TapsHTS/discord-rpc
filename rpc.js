@@ -1,6 +1,6 @@
 const rpc = require('discord-rpc');
 const Discord = require('discord.js');
-const id = 'XXXXXXX'; // L'id de votre application
+const id = 'XXXXXXX'; // L'id de votre bot
 const token = 'XXXXXXXX'; // Le token de votre bot
 
 
