@@ -1,6 +1,6 @@
 # discord-rpc
 
-## How to install?
+## Comment l'installer?
 
 ```js
 git clone https://github.com/TapsHTS/discord-rpc
@@ -17,13 +17,13 @@ const token = 'Bot Token';
 
 ```
 
-## It's good !
+## C'est bon !
 
 ```js 
 node rpc.js
 
 ```
 
-## Thank's if you leave a ⭐!
+## Merci si vous laissez une ⭐!
 
 
