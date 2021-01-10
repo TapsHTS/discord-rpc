@@ -15,10 +15,10 @@ client.on('ready', () => {
         activity: {
             details: 'Best Music Bot', // Pour faire une description
             assets: {
-                large_image: "neotux", // Clé de la grande image
+                large_image: "large-key-name", // Clé de la grande image
                 large_text: "Add me !", // Text quand on passe sa souris sur l'image
-                small_image: "icons8-robot-100", // Clé de la petite image
-                small_text: `💬 ${bot.guilds.cache.size}/75 servers`, // Text quand on passe sa souris sur l'image
+                small_image: "small-key-name", // Clé de la petite image
+                small_text: `💬 ${bot.guilds.cache.size} servers`, // Text quand on passe sa souris sur l'image
             },
             buttons: [
                 {
