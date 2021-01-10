@@ -2,7 +2,7 @@ const rpc = require('discord-rpc');
 const Discord = require('discord.js');
 const token = 'XXXXXXXX'; // Le token de votre bot
 
-const bot = new Discord.Client()
+const bot = new Discord.Client();
 const client = new rpc.Client({transport: 'ipc'});
 
 
