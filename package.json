@@ -1,0 +1,26 @@
+{
+  "name": "custom-rpc",
+  "version": "1.0.0",
+  "description": "Create your custom rich presence for discord",
+  "main": "rpc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TapsHTS/discord-rpc.git"
+  },
+  "keywords": [
+    "rpc"
+  ],
+  "author": "Taps",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TapsHTS/discord-rpc/issues"
+  },
+  "homepage": "https://github.com/TapsHTS/discord-rpc#readme",
+  "dependencies": {
+    "discord-rpc": "^3.1.4",
+    "discord.js": "^12.5.1"
+  }
+}
