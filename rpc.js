@@ -9,7 +9,7 @@ const bot = new Discord.Client()
 const client = new rpc.Client({transport: 'ipc'});
 client.on('ready', () => {
     bot.on('ready', () =>{
-    console.log('🎵 RPC ON');
+    console.log('RPC Démarée');
     client.request('SET_ACTIVITY', {
         pid: 9999,
         activity: {
