@@ -12,7 +12,6 @@ npm i
 
 ```js
 
-const id = 'Application ID';
 const token = 'Bot Token';
 
 ```
