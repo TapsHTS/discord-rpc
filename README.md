@@ -2,9 +2,9 @@
 
 ## Comment l'installer?
 
-Télécharger [Better Discord](https://github.com/rauenzi/BetterDiscordApp/releases)
+Téléchargez [Better Discord](https://github.com/rauenzi/BetterDiscordApp/releases)
 
-Télécharger le [plugin](https://github.com/TapsHTS/discord-rpc/archive/betterdiscord.zip)
+Téléchargez le [plugin](https://github.com/TapsHTS/discord-rpc/archive/betterdiscord.zip)
 
 ## Configuration
 
