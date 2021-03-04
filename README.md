@@ -1,4 +1,4 @@
-# discord-rpc (Better Discord)
+# discord-rpc (Better Discord) /!\ WARNING /!\ This module was unstables !
 
 ## Comment l'installer?
 
